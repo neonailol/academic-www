@@ -312,7 +312,7 @@ gantt
 
 ### Advanced diagrams
 
-More advanced diagrams can be created in the open source [draw.io](draw.io) editor. The editor has support for almost any type of diagram, from simple to complex. A diagram can be easily embedded in Academic by choosing **File > Embed > SVG** in the [draw.io](draw.io) editor and pasting the generated code into your page.
+More advanced diagrams can be created in the open source [draw.io](https://draw.io) editor. The editor has support for almost any type of diagram, from simple to complex. A diagram can be easily embedded in Academic by choosing **File > Embed > SVG** in the [draw.io](https://draw.io) editor and pasting the generated code into your page.
 
 Alternatively, a diagram can be exported as an [image](#images) from any drawing software, or a [document/slide](#embed-documents) containing a diagram can be embedded.
 
